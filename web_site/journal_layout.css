@@ -1,0 +1,53 @@
+body{
+	border: 10px white solid;
+	align-items: center;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-image: url("https://c0.wallpaperflare.com/preview/888/665/86/background-blue-calm-gradients.jpg");
+
+		}
+
+
+
+div{
+	background-color: #A8F0F0;
+}
+div h1{
+	text-align: right;
+
+}
+img{
+	float: right;
+
+
+}
+div h2.border{
+	font-size: 14pt;
+	text-align: right;
+
+}
+
+h2 span{
+	border-bottom: 2px #245F0A dashed;
+}
+
+#border1{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px; 
+	overflow: auto;
+
+}
+
+.floating{
+	border: 4px #4682B4 solid;
+	float: left;
+	padding: 5px;
+	margin: 9px; 
+	margin-bottom: 70px;
+
+	}
+#greens{
+	background-color: white ;
+}

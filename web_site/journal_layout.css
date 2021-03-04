@@ -8,7 +8,6 @@ body{
 		}
 
 
-
 div{
 	background-color: #A8F0F0;
 }
@@ -21,7 +20,7 @@ img{
 
 
 }
-div h2.border{
+div h2#border{
 	font-size: 14pt;
 	text-align: right;
 
@@ -40,7 +39,7 @@ h2 span{
 
 }
 
-.floating{
+#floating{
 	border: 4px #4682B4 solid;
 	float: left;
 	padding: 5px;
@@ -50,4 +49,8 @@ h2 span{
 	}
 #greens{
 	background-color: white ;
+}
+
+.hovers:hover{
+	color: yellow;
 }

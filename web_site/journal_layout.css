@@ -1,56 +1,53 @@
 body{
-	border: 10px white solid;
-	align-items: center;
+	border:10px white solid;
 	margin-right: 10%;
 	margin-left: 10%;
-	background-image: url("https://c0.wallpaperflare.com/preview/888/665/86/background-blue-calm-gradients.jpg");
+	background-image: url("https://seoblog.life/wp-content/uploads/5c05195dbca7c5c05195dbcace.jpg");
+}
 
-		}
+.main_body{
+	background-color: white;
+	margin:-1px;
+}
 
-
-div{
+.title{
 	background-color: #A8F0F0;
-}
-div h1{
 	text-align: right;
-
+	margin-top: -4px;
 }
+
+.sub_title{
+	font-size: 14px;
+	margin: 2px;
+}
+
+.body_title{
+	border:4px #C2E9E9 solid;
+	flex-basis: 50%;
+	background-color: #E8FBFB;
+	padding: 10px;
+	margin-top:10px;
+	overflow: auto;
+}
+
+span{
+	border-bottom:2px blue dashed;
+}
+
+.article_body{
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.card{
+	flex-basis: 50%;
+	padding: 5px;
+	border: 5px #245F5F solid;
+	margin: 10px;
+	margin-bottom: 350px;
+	background-color: #5FD8D8;
+}
+
 img{
 	float: right;
-
-
-}
-div h2#border{
-	font-size: 14pt;
-	text-align: right;
-
-}
-
-h2 span{
-	border-bottom: 2px #245F0A dashed;
-}
-
-#border1{
-	border: 4px #C2E9E9 solid;
-	background-color: #E8FBFB;
-	padding: 5px;
-	margin-top: 10px; 
-	overflow: auto;
-
-}
-
-#floating{
-	border: 4px #4682B4 solid;
-	float: left;
-	padding: 5px;
-	margin: 9px; 
-	margin-bottom: 70px;
-
-	}
-#greens{
-	background-color: white ;
-}
-
-.hovers:hover{
-	color: yellow;
 }

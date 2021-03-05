@@ -2,7 +2,7 @@ body{
 	border:10px white solid;
 	margin-right: 10%;
 	margin-left: 10%;
-	background-image: url("https://seoblog.life/wp-content/uploads/5c05195dbca7c5c05195dbcace.jpg");
+	background-image: url("https://cutewallpaper.org/21/light-green-pattern-background/Traditional-Gingham-pattern-in-light-green-color-Seamless-checkered.jpg");
 }
 
 .main_body{
@@ -23,7 +23,7 @@ body{
 
 .body_title{
 	border:4px #C2E9E9 solid;
-	flex-basis: 50%;
+	flex-basis: 80%;
 	background-color: #E8FBFB;
 	padding: 10px;
 	margin-top:10px;
@@ -40,11 +40,11 @@ span{
 }
 
 .card{
-	flex-basis: 50%;
+	flex-basis: 20%;
 	padding: 5px;
 	border: 5px #245F5F solid;
 	margin: 10px;
-	margin-bottom: 350px;
+	margin-bottom: 300px;
 	background-color: #5FD8D8;
 }
 
